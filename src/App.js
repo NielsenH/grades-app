@@ -18,7 +18,7 @@ function App() {
           <div className="navbar-nav mr-auto">
             <li className="nav-item">
               <Link to={'/grade'} className="nav-link">
-                Grades
+                Grades de Notas
               </Link>
             </li>
             <li className="nav-item">
